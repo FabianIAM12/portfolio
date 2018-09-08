@@ -24,7 +24,6 @@ h5 {
 }
 
 /* Header */
-
 header {
     padding-top:50px;
     border-bottom: 3px solid #7d97ad;
@@ -80,7 +79,6 @@ article a:hover {
 }
 
 /* Section */
-
 section h3 {
     color: #7d97ad;
     margin-top: 10px;
@@ -96,9 +94,7 @@ section h3 {
     font-weight: normal;
 }
 
-
 /* Header */
-
 #right-header {
     text-align: right;
     font-weight: lighter;
@@ -107,4 +103,29 @@ section h3 {
 
 #right-header h1 {
     font-weight: lighter;
+}
+
+/* Footer */
+footer {
+    border-top: 3px solid #7d97ad;
+    margin-top:20px;
+    padding-top:20px;
+    padding-bottom:30px;
+    min-height: 180px;
+}
+
+footer a {
+    color: black;
+}
+
+footer li {
+    display: inline-block;
+}
+
+footer ul {
+    text-align: center;
+}
+
+#line {
+    border-top: 3px solid #7d97ad;
 }
